@@ -5,6 +5,8 @@
 
 <img src="assets/typing.svg" width="100%" alt="typing intro"/>
 
+<a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/"><img src="https://img.shields.io/badge/LinkedIn-120a22?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/></a>
+
 <img src="https://komarev.com/ghpvc/?username=muhtasimmasum99-prog&label=PROFILE+VIEWS&color=00f0ff&labelColor=120a22&style=for-the-badge" alt="profile views"/>
 
 </div>
