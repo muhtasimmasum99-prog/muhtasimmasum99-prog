@@ -6,6 +6,7 @@
 <img src="assets/typing.svg" width="100%" alt="typing intro"/>
 
 <a href="https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/"><img src="https://img.shields.io/badge/LinkedIn-120a22?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn"/></a>
+<a href="https://my-portfolio-iota-taupe-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-120a22?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Portfolio"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=muhtasimmasum99-prog&label=PROFILE+VIEWS&color=00f0ff&labelColor=120a22&style=for-the-badge" alt="profile views"/>
 
