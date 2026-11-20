@@ -54,8 +54,8 @@ projects: []        # example: [my-portfolio, cool-cli-tool, ctf-writeups]
 socials:
   linkedin: "https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/"      # e.g. your-handle
   twitter: ""
-  facebook: ""
-  instagram: ""
+  facebook: "https://www.facebook.com/mh.masum.908"
+  instagram: "https://www.instagram.com/mh_masum209/"
   youtube: ""
   discord: ""
   telegram: ""
@@ -66,7 +66,7 @@ socials:
   tryhackme: ""
   hackthebox: ""
   portfolio: "https://my-portfolio-iota-taupe-53.vercel.app/"     # full URL
-  email: ""
+  email: "hasnayenmasum@gmail.com"
 
 # ---------- Sections on/off ----------
 features:
