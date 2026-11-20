@@ -65,7 +65,7 @@ socials:
   codeforces: ""
   tryhackme: ""
   hackthebox: ""
-  portfolio: ""     # full URL
+  portfolio: "https://my-portfolio-iota-taupe-53.vercel.app/"     # full URL
   email: ""
 
 # ---------- Sections on/off ----------
