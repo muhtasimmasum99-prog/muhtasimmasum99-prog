@@ -52,7 +52,7 @@ projects: []        # example: [my-portfolio, cool-cli-tool, ctf-writeups]
 
 # ---------- Social links (leave empty to hide). Handle or full URL both work ----------
 socials:
-  linkedin: ""      # e.g. your-handle
+  linkedin: "https://www.linkedin.com/in/muhtasim-masum-hasnayen-048517273/"      # e.g. your-handle
   twitter: ""
   facebook: ""
   instagram: ""
